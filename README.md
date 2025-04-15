@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://margauxbar.com/projects](https://margauxbar.com/projects)
 
-- 📫 How to reach me **mgxbarr@gmail.com**
+- 📫 How to reach me **margaux.barrouillet@gmail.com**
 
 - 📄 Know about my experiences [https://margauxbar.com/aboutme](https://margauxbar.com/aboutme)
 
